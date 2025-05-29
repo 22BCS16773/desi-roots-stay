@@ -1,4 +1,4 @@
-**URL**:https://preview--desi-roots-stay.lovable.app/
+
 # Welcome to my DesiStay project
 ![4ea2fd3f-8cfb-4bc2-a9f1-d41d41246ff6](https://github.com/user-attachments/assets/bcffdf79-e43d-4e28-a6b4-acdd7053132d)
 
@@ -7,9 +7,7 @@
 
 ## Project info
 
-
-
-**URL**: https://lovable.d![Uploading 6bb92d7d-1ba4-4cf3-a5f3-705813f2b614.png…]()
+**URL**:https://preview--desi-roots-stay.lovable.app/
 ev/projects/20ee6bed-090b-40b5-88e1-8f8549ba2fbc
 
 ## How can I edit this code?
