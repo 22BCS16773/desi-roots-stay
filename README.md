@@ -64,7 +64,7 @@ This project is built with:
 
 Simply open [Lovable](https://lovable.dev/projects/20ee6bed-090b-40b5-88e1-8f8549ba2fbc) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my DesiStay project?
 
 Yes, you can!
 
