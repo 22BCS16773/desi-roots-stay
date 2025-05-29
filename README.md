@@ -1,3 +1,6 @@
+## 🏡 StayDesi – Experience India Like a Local
+
+![StayDesi Homepage](./assets/homepage.png)
 # Welcome to my DesiStay project
 
 ## Project info
