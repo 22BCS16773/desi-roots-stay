@@ -1,5 +1,6 @@
 
 # Welcome to my DesiStay project
+![4ea2fd3f-8cfb-4bc2-a9f1-d41d41246ff6](https://github.com/user-attachments/assets/bcffdf79-e43d-4e28-a6b4-acdd7053132d)
 
 ## Project info
 
