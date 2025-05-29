@@ -4,6 +4,8 @@
 
 ## Project info
 
+![Uploading image.png…]()
+
 **URL**: https://lovable.dev/projects/20ee6bed-090b-40b5-88e1-8f8549ba2fbc
 
 ## How can I edit this code?
