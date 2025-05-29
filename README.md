@@ -61,9 +61,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/20ee6bed-090b-40b5-88e1-8f8549ba2fbc) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my DesiStay project?
 
