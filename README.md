@@ -4,9 +4,10 @@
 
 ## Project info
 
-![Uploading image.png…]()
 
-**URL**: https://lovable.dev/projects/20ee6bed-090b-40b5-88e1-8f8549ba2fbc
+
+**URL**: https://lovable.d![Uploading 6bb92d7d-1ba4-4cf3-a5f3-705813f2b614.png…]()
+ev/projects/20ee6bed-090b-40b5-88e1-8f8549ba2fbc
 
 ## How can I edit this code?
 
