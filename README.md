@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to my DesiStay project
 
 ## Project info
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/20ee6bed-090b-40b5-88e1-8f8549ba2fbc) and start prompting.
+Simply visit the (https://lovable.dev/projects/20ee6bed-090b-40b5-88e1-8f8549ba2fbc) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
